@@ -1,7 +1,3 @@
-Certainly! Here's a template for your README file:
-
----
-
 # Profile Card Web Page
 
 This project consists of a simple web page displaying a profile card with personal and social media information. The web page is styled using CSS and includes Boxicons for icons. The HTML file (`index.html`) and the CSS file (`styles.css`) work together to create a visually appealing profile card.
