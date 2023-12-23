@@ -31,7 +31,7 @@ Feel free to customize the content and styling based on your preferences. You ca
 
 ## Preview
 
-
+![Profile Card Preview](./Profile%20Card%20Project/images/profile_card_perview.png)
 
 ## Author
 
