@@ -32,7 +32,6 @@ Feel free to customize the content and styling based on your preferences. You ca
 ## Preview
 
 
-
 ## Author
 
 Sohail Shaikh
