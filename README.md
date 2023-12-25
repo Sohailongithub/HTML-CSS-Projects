@@ -29,10 +29,6 @@ This project consists of a simple web page displaying a profile card with person
 
 Feel free to customize the content and styling based on your preferences. You can update the profile information, add or remove social media links, or modify the color scheme in the `styles.css` file.
 
-## Preview
-
-![Profile Card Preview](./Profile%20Card%20Project/images/profile_card_perview.png)
-
 ## Author
 
 Sohail Shaikh
